@@ -1,1 +1,1 @@
-[Space Cream (Responsive)](https://eduardovisconti.github.io/space-cream-responsive/)
+[Space Cream](https://eduardovisconti.github.io/space-cream-responsive/)
