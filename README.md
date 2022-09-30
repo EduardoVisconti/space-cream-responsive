@@ -19,6 +19,9 @@ Página para uma sorveteria desenvolvida durante o Stage 03 do Explorer da Rocke
 <br>
 Page for an ice cream shop developed during Stage 03 of Explorer Rocketseats program. The objective was to develop a page with a responsive layout taking into account the concept of Mobile First. In addition, flexible measurement units, animations and transitions with CSS and Media Queries were used.
 <br>
+
+<br>
+
 [Click here](https://eduardovisconti.github.io/space-cream-responsive/) to check the website.
 
 <br>
