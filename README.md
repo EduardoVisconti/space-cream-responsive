@@ -1,1 +1,1 @@
-[Space Cream (Responsive)](https://eduardovisconti.github.io/FocusTimer-DarkMode/)
+[Space Cream (Responsive)](https://eduardovisconti.github.io/space-cream-responsive/)
